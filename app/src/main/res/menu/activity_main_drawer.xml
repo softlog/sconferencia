@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_por_protocolo"
+            android:icon="@drawable/ic_todos_protocolos"
+            android:title="Protocolos do dia" />
+
+
+        <item
+            android:id="@+id/nav_cidades"
+            android:icon="@drawable/ic_action_cidades"
+            android:title="Cidades" />
+
+        <item
+            android:id="@+id/nav_atualizar"
+            android:icon="@drawable/ic_refresh"
+            android:title="Atualizar" />
+
+        <item
+            android:id="@+id/nav_sair"
+            android:icon="@drawable/ic_exit"
+            android:title="Sair" />
+    </group>
+
+
+</menu>

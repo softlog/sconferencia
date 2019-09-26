@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">SConferencia</string>
+    <string name="action_settings">Configurações</string>
+    <string name="exit">Sair</string>
+
+    <string name="usuario">Usuário</string>
+    <string name="hint_usuario">Login usuário</string>
+    <string name="senha">Senha</string>
+    <string name="hint_senha">Senha</string>
+    <string name="codigo_acesso">Código Acesso</string>
+    <string name="hint_codigo_acesso">Código de Acesso</string>
+    <string name="login">Login</string>
+    <string name="botao_login">Entrar</string>
+
+    <string name="valid_usuario">Login do usuário obrigatório.</string>
+    <string name="valid_senha">Senha obrigatório.</string>
+    <string name="valid_codigo_acesso">Código de Acesso obrigatório.</string>
+    <string name="senha_invalida">Senha do usuário incorreta</string>
+    <string name="usuario_inexistente">Usuário inexistente</string>
+    <string name="erro_acesso">Ocorreu algum problema. Tente novamente.</string>
+    <string name="erro_criar_conta">Não foi possível criar a conta. Tente novamente.</string>
+
+    <string name="descricao_abertura">www.softlog.eti.br</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">Busca</string>
+    <string name="refresh">atualizar</string>
+    <string name="config">Configuração</string>
+
+    <string name="conferidos">Conferidos</string>
+    <string name="n_o_conferidos">Pendentes</string>
+    <string name="data_protocolo">Data Protocolo</string>
+    <string name="todos">Todos</string>
+    <string name="n_mero_protocolo">Número Protocolo</string>
+    <string name="pesquisa">Pesquisa</string>
+    <string name="title_activity_remetente_setor">RemetenteSetorActivity</string>
+
+    <string name="protocolo">Protocolo:</string>
+    <string name="criado_em">Criado em:</string>
+    <string name="setor">Setor:</string>
+    <string name="volumes">Volumes:</string>
+    <string name="criado_por">Criado por:</string>
+    <string name="qtd_conferidos">Conferidos:</string>
+    <string name="notas">Notas:</string>
+    <string name="conferido_em">Conferido em:</string>
+    <string name="conferido_por">Conferido por:</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">SConferência</string>
+
+    <string name="scanner">Scanner</string>
+
+    <string name="result_image_desc">Resultado da Captura</string>
+
+    <string name="main_drawer_load">Carregar Imagem</string>
+    <string name="main_drawer_open">Abrir barra de navegação</string>
+    <string name="main_drawer_close">Fechar barra de navegação</string>
+
+    <string name="main_action_crop">Cortar</string>
+    <string name="main_action_rotate">Girar 90º Direita</string>
+    <string name="main_action_flip">Flip</string>
+    <string name="main_action_flip_horizontally">Virar Horizontal</string>
+    <string name="main_action_flip_vertically">Virar Vertical</string>
+    <string name="drawer_option_title">Configurações de Corte</string>
+    <string name="drawer_option_oval">Circular</string>
+    <string name="drawer_option_rect">Rectangular</string>
+    <string name="drawer_option_min_max">Min/Max limits override</string>
+    <string name="drawer_option_customized_overlay">Sobreposição personalizada</string>
+    <string name="drawer_option_scale_center">Escala centralizada</string>
+    <string name="drawer_option_title2">Opções de Personalização</string>
+    <string name="drawer_option_toggle_scale">Escala de Imagem: %1s</string>
+    <string name="drawer_option_toggle_shape">Crop Shape: %1s</string>
+    <string name="drawer_option_toggle_guidelines">Guidelines: %1s</string>
+    <string name="drawer_option_toggle_aspect_ratio">Proporção Tela: %1s</string>
+    <string name="drawer_option_toggle_auto_zoom">Auto zoom: %1s</string>
+    <string name="drawer_option_toggle_max_zoom">Max zoom level: %1s</string>
+    <string name="drawer_option_set_initial_crop_rect">Definir o retângulo de recorte inicial</string>
+    <string name="drawer_option_reset_crop_rect">Redefinir o retângulo de recorte inicial</string>
+    <string name="drawer_option_toggle_multitouch">Multitouch: %1s</string>
+    <string name="drawer_option_toggle_show_overlay">Mostrar Sobreposição: %1s</string>
+    <string name="drawer_option_toggle_show_progress_bar">Mostrar Barra Progresso: %1s</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/conferir"
+        android:icon="@drawable/ic_conferencia"
+        android:title="Conferir"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/make_romaneio"
+        android:icon="@drawable/ic_romaneio"
+        android:title="Criar Romaneio"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/ocorrencias"
+        android:icon="@drawable/ic_ocorrencia"
+        android:title="Ver ocorrências"
+        app:showAsAction="always" />
+
+
+</menu>
